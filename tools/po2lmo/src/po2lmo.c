@@ -1,5 +1,4 @@
- 
-/*
+ *
  * lmo - Lua Machine Objects - PO to LMO conversion tool
  *
  *   Copyright (C) 2009-2012 Jo-Philipp Wich <xm@subsignal.org>
